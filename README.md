@@ -1,4 +1,5 @@
-# :wave: The Basics of GitHub 
+Lily
+# :wave: The Basics of GitHub OTTO IS THE BEST
 
 ## 🤓 Course overview and learning outcomes 
 
